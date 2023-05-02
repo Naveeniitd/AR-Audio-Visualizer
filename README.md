@@ -16,10 +16,10 @@ To use the AR Audio Visualizer project, you'll need to follow these steps:
 3. Build the project for your desired platform (iOS or Android)
 4. Deploy the app to your device or emulator
 
-![Alt text](/images/your-image-name.jpg "Optional title")
+![Alt text](/images/Test1.png "Image Detection")
 
 
-![Alt text](/images/your-image-name.jpg "Optional title")
+![Alt text](/images/Test2.png "Audio Visualization")
 
 # Image Detection and Object Instantiation with EasyAR
 This project uses image detection and object instantiation to create an augmented reality experience. We're using EasyAR, a cross-platform AR development kit, to make it easy to get started.
